@@ -20,7 +20,7 @@ Program to implement the Decision Tree Regressor Model for Predicting the Salary
 
 Developed by : VISALAN 
 RegisterNumber : 212223240183
-```
+```py
 import pandas as pd
 data = pd.read_csv("Salary.csv")
 data.head()
